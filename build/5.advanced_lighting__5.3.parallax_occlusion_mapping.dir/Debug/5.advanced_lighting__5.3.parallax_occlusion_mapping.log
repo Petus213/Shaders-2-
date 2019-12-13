@@ -1,0 +1,21 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/EH;'
+cl : Command line warning D9002: ignoring unknown option '/EH-'
+cl : Command line warning D9002: ignoring unknown option '/EHt'
+cl : Command line warning D9002: ignoring unknown option '/EHd'
+cl : Command line warning D9002: ignoring unknown option '/EH='
+cl : Command line warning D9002: ignoring unknown option '/EH+'
+cl : Command line warning D9002: ignoring unknown option '/EH+'
+cl : Command line warning D9002: ignoring unknown option '/EH1'
+cl : Command line warning D9002: ignoring unknown option '/EH1'
+  parallax_occlusion_mapping.cpp
+C:\Users\Peter\Desktop\LearnOpenGL-master\includes\learnopengl/filesystem.h(23): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\ucrt\stdlib.h(1191): note: see declaration of 'getenv'
+C:\Users\Peter\Desktop\LearnOpenGL-master\src\5.advanced_lighting\5.3.parallax_occlusion_mapping\parallax_occlusion_mapping.cpp(161): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peter\Desktop\LearnOpenGL-master\src\5.advanced_lighting\5.3.parallax_occlusion_mapping\parallax_occlusion_mapping.cpp(510): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peter\Desktop\LearnOpenGL-master\src\5.advanced_lighting\5.3.parallax_occlusion_mapping\parallax_occlusion_mapping.cpp(511): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peter\Desktop\LearnOpenGL-master\src\5.advanced_lighting\5.3.parallax_occlusion_mapping\parallax_occlusion_mapping.cpp(515): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peter\Desktop\LearnOpenGL-master\src\5.advanced_lighting\5.3.parallax_occlusion_mapping\parallax_occlusion_mapping.cpp(516): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peter\Desktop\LearnOpenGL-master\src\5.advanced_lighting\5.3.parallax_occlusion_mapping\parallax_occlusion_mapping.cpp(518): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peter\Desktop\LearnOpenGL-master\src\5.advanced_lighting\5.3.parallax_occlusion_mapping\parallax_occlusion_mapping.cpp(519): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peter\Desktop\LearnOpenGL-master\src\5.advanced_lighting\5.3.parallax_occlusion_mapping\parallax_occlusion_mapping.cpp(528): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  5.advanced_lighting__5.3.parallax_occlusion_mapping.vcxproj -> C:\Users\Peter\Desktop\LearnOpenGL-master\bin\5.advanced_lighting\Debug\5.advanced_lighting__5.3.parallax_occlusion_mapping.exe

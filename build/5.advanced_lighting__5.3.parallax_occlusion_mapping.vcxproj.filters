@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Peter\Desktop\LearnOpenGL-master\src\5.advanced_lighting\5.3.parallax_occlusion_mapping\parallax_occlusion_mapping.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Peter\Desktop\LearnOpenGL-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Peter\Desktop\LearnOpenGL-master\src\5.advanced_lighting\5.3.parallax_occlusion_mapping\5.3.parallax_mapping.fs" />
+    <None Include="C:\Users\Peter\Desktop\LearnOpenGL-master\src\5.advanced_lighting\5.3.parallax_occlusion_mapping\5.3.parallax_mapping.vs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{81013C8D-7601-3D20-BB37-8257ECE7BEF5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

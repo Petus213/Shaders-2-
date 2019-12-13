@@ -1,0 +1,12 @@
+﻿  Building Custom Rule C:/Users/Peter/Desktop/LearnOpenGL-master/CMakeLists.txt
+cl : Command line warning D9002: ignoring unknown option '/EH;'
+cl : Command line warning D9002: ignoring unknown option '/EH-'
+cl : Command line warning D9002: ignoring unknown option '/EHt'
+cl : Command line warning D9002: ignoring unknown option '/EHd'
+cl : Command line warning D9002: ignoring unknown option '/EH='
+cl : Command line warning D9002: ignoring unknown option '/EH+'
+cl : Command line warning D9002: ignoring unknown option '/EH+'
+cl : Command line warning D9002: ignoring unknown option '/EH1'
+cl : Command line warning D9002: ignoring unknown option '/EH1'
+  stb_image.cpp
+  STB_IMAGE.vcxproj -> C:\Users\Peter\Desktop\LearnOpenGL-master\build\Debug\STB_IMAGE.lib
